@@ -12,3 +12,5 @@ This project is likely going to be something like a shopping or todo list, somet
 * Automated Testing  
 * Continuous Intergration  
 * Cloud Fundamentals  
+##Links
+This project is linked with Jira.  

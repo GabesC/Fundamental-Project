@@ -13,4 +13,4 @@ This project is likely going to be something like a shopping or todo list, somet
 * Continuous Intergration  
 * Cloud Fundamentals  
 ##Links
-This project is linked with Jira.  
+This project is linked with Jira now.  
